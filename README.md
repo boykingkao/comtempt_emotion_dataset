@@ -1,4 +1,4 @@
-# comtempt_emotion_dataset
+# contempt_emotion_dataset
 
 ## อธิบายอารมณ์ contempt(เหยียดหยาม)
 เป็นอารมณ์ที่แสดงถึงการ**ดูถูก/เหยียดหยาม**
