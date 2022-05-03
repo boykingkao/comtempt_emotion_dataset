@@ -23,4 +23,6 @@
 3.นาย A แสดงอารมณ์ **contempt** ให้นาย B เห็น\
 4.นาย B รู้สึกว่าตัวเองโดนเหยียดหยาม
 
+https://as2.ftcdn.net/v2/jpg/00/44/31/97/500_F_44319799_CuoT4KAXu4nYTLnBKbpscaiAucrAs77u.jpg
+
 ### credit : https://www.paulekman.com/universal-emotions/what-is-contempt/
