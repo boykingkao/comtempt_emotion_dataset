@@ -22,3 +22,5 @@
 2.นาย A เห็นนาย B แล้วรู้ว่าตนเองมีดีกว่านาย B\
 3.นาย A แสดงอารมณ์ **contempt** ให้นาย B เห็น\
 4.นาย B รู้สึกว่าตัวเองโดนเหยียดหยาม
+
+### credit : https://www.paulekman.com/universal-emotions/what-is-contempt/
